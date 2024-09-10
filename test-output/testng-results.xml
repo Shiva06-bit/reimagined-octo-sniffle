@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74634" started-at="2024-09-10T06:17:07Z" finished-at="2024-09-10T06:18:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74634" started-at="2024-09-10T06:17:07Z" finished-at="2024-09-10T06:18:22Z">
+      <class name="popularitesItems.PopularItemsTest">
+        <test-method status="PASS" signature="StartTest()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="StartTest" is-config="true" duration-ms="5" started-at="2024-09-10T11:47:07Z" finished-at="2024-09-10T11:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="OpenBrowser" is-config="true" duration-ms="3597" started-at="2024-09-10T11:47:07Z" finished-at="2024-09-10T11:47:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="LaptopTest()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="LaptopTest" duration-ms="21890" started-at="2024-09-10T11:47:11Z" finished-at="2024-09-10T11:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaptopTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="teardown" is-config="true" duration-ms="113" started-at="2024-09-10T11:47:32Z" finished-at="2024-09-10T11:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="OpenBrowser" is-config="true" duration-ms="2589" started-at="2024-09-10T11:47:33Z" finished-at="2024-09-10T11:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="SpeakerTest()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="SpeakerTest" duration-ms="21343" started-at="2024-09-10T11:47:35Z" finished-at="2024-09-10T11:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpeakerTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="teardown" is-config="true" duration-ms="110" started-at="2024-09-10T11:47:56Z" finished-at="2024-09-10T11:47:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="OpenBrowser" is-config="true" duration-ms="3444" started-at="2024-09-10T11:47:57Z" finished-at="2024-09-10T11:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="TabletTest()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="TabletTest" duration-ms="21434" started-at="2024-09-10T11:48:00Z" finished-at="2024-09-10T11:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TabletTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="teardown" is-config="true" duration-ms="100" started-at="2024-09-10T11:48:21Z" finished-at="2024-09-10T11:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:popularitesItems.PopularItemsTest@49e4cb85]" name="endTest" is-config="true" duration-ms="1" started-at="2024-09-10T11:48:22Z" finished-at="2024-09-10T11:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- popularitesItems.PopularItemsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
